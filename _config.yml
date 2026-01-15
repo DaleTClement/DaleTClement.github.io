@@ -28,8 +28,8 @@ url: "DaleTClement.github.io" # the base hostname & protocol for your site, e.g.
 github_username:  DaleTClement
 
 # Build settings
-# remote_theme: pages-themes/slate@v0.2.0
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/slate@v0.2.0
+#theme: jekyll-theme-minimal
 
 # Exclude from processing.
 # The following items will not be processed, by default.
