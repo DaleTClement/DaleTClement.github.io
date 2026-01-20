@@ -1,5 +1,6 @@
 ---
-id: home
+layout: page
+id: Home
 ---
 
 # Test Website
