@@ -1,9 +1,12 @@
 
 title: Dale Clement
 
+ author:
+   name: Dale Clement
+   email: clemend@wfu.edu
 
 description: >
-  Placeholder
+  This is the personal website of Dale Clement.
 
 repository: DaleTClement/DaleTClement.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -38,6 +41,8 @@ minima:
   nav_pages:
     - index.md
     - Research.md
+    - Publications.md
+    - BookList.md
 
   # Set to `true` to show excerpts on the homepage.
   show_excerpts: false
