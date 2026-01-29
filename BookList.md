@@ -1,10 +1,8 @@
 ---
 layout: page
-title: History
+title: History Books
 permalink: /BookList/
 ---
-
-# History Books
 
 In addition to my professional interests, I am also an avid history buff. I am curious about all places and times, but history is unfathomably large so thus far I have mostly focused on U.S. history, Chinese history, and ancient Roman history. These are the books that I've read over the years, all of which I found very insightful and highly recommend.
 

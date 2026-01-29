@@ -53,4 +53,15 @@ minima:
   #     * title    Tooltip rendered on hovering over icon.
   #     * icon     Font Awesome icon id. `github` corresponds to `fa-github`.
   #     * url      Full URL of social profile.
+  social_links:
+    - title: ORCID
+      icon orcid
+      url: "https://orcid.org/0000-0001-7327-3323"
+    - title: LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/dale-clement-a79aab361/"
+    - title: GitHub
+      icon: github
+      url: "https://github.com/DaleTClement"
+    
 
