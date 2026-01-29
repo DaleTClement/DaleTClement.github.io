@@ -20,7 +20,7 @@ In addition to my professional interests, I am also an avid history buff. I am c
 
 ## Books Read - 2025
 
-*Cambridge History of Ancient China: From the Origins of Civilization to 221 B.C.* Edited by Michael Loewe and Edward Shaughnessy [Link]( https://www.cambridge.org/core/books/cambridge-history-of-ancient-china/1274DEAA9CE3A6D0AC700076B70D5C22)
+*Cambridge History of Ancient China: From the Origins of Civilization to 221 B.C.* Edited by Michael Loewe and Edward Shaughnessy [Link](https://www.cambridge.org/core/books/cambridge-history-of-ancient-china/1274DEAA9CE3A6D0AC700076B70D5C22)
 
 *The Cambridge History of China, Volume 2: The Six Dynasties, 220–589*. Edited by Albert Dien [Link](https://www.cambridge.org/core/books/cambridge-history-of-china/56CC95F5B70536E6CC1AF254217A9364)
 
@@ -38,7 +38,7 @@ In addition to my professional interests, I am also an avid history buff. I am c
 
 ## Books Read - 2024
 
-*The Cambridge History of China, Volume 7: The Ming Dynasty, 1368–1644, Part 1*. Edited by Frederick W. Mote and Denis Twitchett [Link]( https://www.cambridge.org/core/books/cambridge-history-of-china/185D55101E4AF1E50007CA4773605CEF)
+*The Cambridge History of China, Volume 7: The Ming Dynasty, 1368–1644, Part 1*. Edited by Frederick W. Mote and Denis Twitchett [Link](https://www.cambridge.org/core/books/cambridge-history-of-china/185D55101E4AF1E50007CA4773605CEF)
 
 *The Cambridge History of China, Volume 8: The Ming Dynasty, Part 2: 1368–1644*. Edited by Denis Twitchett and Frederick Mote [Link](https://www.cambridge.org/core/books/cambridge-history-of-china/F444D546591A49BE37E52D8A904E92DE)
 
@@ -56,7 +56,7 @@ In addition to my professional interests, I am also an avid history buff. I am c
 
 *The Cambridge History of China, Volume 1: The Ch'in and Han Empires, 221 BC–AD 220*. Edited by Denis Twitchett and Michael Loewe. [Link](https://www.cambridge.org/core/books/cambridge-history-of-china/00EC13D6E578FBC73F04750D644FF3EA)
 
-*China's Early Empires: A Re-appraisal*, edited by Michael Nylan and Michael Loewe [Link]( https://www.cambridge.org/us/universitypress/subjects/archaeology/archaeology-asia-sub-saharan-africa-and-pacific/chinas-early-empires-re-appraisal?format=HB&isbn=9780521852975)
+[*China's Early Empires: A Re-appraisal*](https://www.cambridge.org/us/universitypress/subjects/archaeology/archaeology-asia-sub-saharan-africa-and-pacific/chinas-early-empires-re-appraisal?format=HB&isbn=9780521852975), edited by Michael Nylan and Michael Loewe 
 
 *The Cambridge History of China, Volume 6: Alien Regimes and Border States, 907–1368*. Edited by Herbert Franke and Denis C. Twitchett [Link](https://www.cambridge.org/us/universitypress/subjects/history/regional-history-1500/cambridge-history-china-volume-6?format=HB)
 
