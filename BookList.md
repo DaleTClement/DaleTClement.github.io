@@ -10,9 +10,10 @@ In addition to my professional interests, I am also an avid history buff. I am c
 
 [*Inside the Roman Legions: The Soldier’s Experience 264 – 107 BCE*](https://www.pen-and-sword.co.uk/Inside-the-Roman-Legions-Hardback/p/24617) by Kathryn Milne 
 
-[*Inked: Tattooed Soldiers and the Song Empire’s Penal-Military Complex*](https://www.hup.harvard.edu/books/9780674291287) by Elad Alyagon 
 
 ## Books Read - 2026
+
+[*Inked: Tattooed Soldiers and the Song Empire’s Penal-Military Complex*](https://www.hup.harvard.edu/books/9780674291287) by Elad Alyagon 
 
 [*Socialist Planning, Third Edition*](https://www.cambridge.org/us/universitypress/subjects/economics/economic-development-and-growth/socialist-planning-3rd-edition?format=PB&isbn=9781107074736) by Michael Ellman 
 

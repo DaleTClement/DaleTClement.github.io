@@ -14,5 +14,7 @@ permalink: /Publications/
 
 # Pre-prints and Submitted Manuscripts
 
-1. **D.T. Clement**, R.D. Holt, N.W. Ruktanonchai, O. Saucedo, N.A. Kortessis. Submitted. Host behavioral responses to perceived risk shape spatial disease dynamics. *Population Biology Modeling and Theory*.
-2. N.W. Ruktanonchai, N.A. Kortessis, **D.T. Clement**, O. Saucedo, E. Cleary, S. Lai, S. Gao, R.D. Holt. Submitted. Accounting for a typology of travel behavior in modeling infectious disease transmission, detection, and community response. *Scientific Reports*
+1.	H. Uecker, M. Osmond, C. Alejandre, E. Barrios-Caro, D. Clement, …, M. Yamamichi. 2026. Modeling Evolutionary Rescue. EcoEvoRxiv. ([Link](<https://doi.org/10.32942/X25D4T>))
+2. **D.T. Clement**, R.D. Holt, N.W. Ruktanonchai, O. Saucedo, N.A. Kortessis. Submitted. Host behavioral responses to perceived risk shape spatial disease dynamics. *Population Biology Modeling and Theory*.
+3. N.W. Ruktanonchai, N.A. Kortessis, **D.T. Clement**, O. Saucedo, E. Cleary, S. Lai, S. Gao, R.D. Holt. Submitted. Accounting for a typology of travel behavior in modeling infectious disease transmission, detection, and community response. *Scientific Reports*
+4.	R. Zwolak, **D.T. Clement**, A. Sih, S.J. Schreiber. In Prep. Adaptive shifts in rodent caching behavior buffer plant recruitment amid rapid environmental change.
