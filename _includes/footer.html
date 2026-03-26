@@ -11,7 +11,7 @@
         <ul class="contact-list">
           <li class="p-name">
             {%- if site.author -%}
-              {{ site.author | escape }}
+              {{ site.author.name | default: site.author | escape }}
             {%- else -%}
               {{ site.title | escape }}
             {%- endif -%}

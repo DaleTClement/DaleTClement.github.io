@@ -4,20 +4,25 @@ title: History Books
 permalink: /BookList/
 ---
 
-In addition to my professional interests, I am also an avid history buff. I am curious about all places and times, but history is unfathomably large so thus far I have mostly focused on U.S. history, Chinese history, and ancient Roman history. These are the books that I've read over the years, all of which I found very insightful and highly recommend.
+In addition to my professional interests, I am also an avid history buff. I am curious about all places and times, but thus far I have mostly focused on social, economic, and institutional history in the U.S., China, and ancient Rome. These are the books that I've read over the years, all of which I found very insightful and highly recommend.
 
-## Currently Reading
+## Book List
+
+#### Currently Reading
+
+[*Soldiers and Silver: Mobilizing Resources in the Age of Roman Conquest*](https://doi.org/10.7560/321683) by Michael J. Taylor
+
+[*The Cambridge History of China, Volume 3: Sui and T'ang China, 589-906, Part 1*](https://doi.org/10.1017/CHOL9780521214469). Edited by Denis Twitchett and John K. Fairbank
+
+#### 2026
 
 [*Inside the Roman Legions: The Soldier’s Experience 264 – 107 BCE*](https://www.pen-and-sword.co.uk/Inside-the-Roman-Legions-Hardback/p/24617) by Kathryn Milne 
-
-
-## Books Read - 2026
 
 [*Inked: Tattooed Soldiers and the Song Empire’s Penal-Military Complex*](https://www.hup.harvard.edu/books/9780674291287) by Elad Alyagon 
 
 [*Socialist Planning, Third Edition*](https://www.cambridge.org/us/universitypress/subjects/economics/economic-development-and-growth/socialist-planning-3rd-edition?format=PB&isbn=9781107074736) by Michael Ellman 
 
-## Books Read - 2025
+#### 2025
 
 [*Cambridge History of Ancient China: From the Origins of Civilization to 221 B.C.*](https://www.cambridge.org/core/books/cambridge-history-of-ancient-china/1274DEAA9CE3A6D0AC700076B70D5C22) Edited by Michael Loewe and Edward Shaughnessy
 
@@ -36,7 +41,7 @@ In addition to my professional interests, I am also an avid history buff. I am c
 
 [*Harvesting the Sea: The Exploitation of Marine Resources in the Roman Mediterranean*](https://academic.oup.com/book/11580) by Annalisa Marzano
 
-## Books Read - 2024
+#### 2024
 
 [*The Cambridge History of China, Volume 7: The Ming Dynasty, 1368–1644, Part 1*](https://www.cambridge.org/core/books/cambridge-history-of-china/185D55101E4AF1E50007CA4773605CEF). Edited by Frederick W. Mote and Denis Twitchett
 
@@ -46,14 +51,13 @@ In addition to my professional interests, I am also an avid history buff. I am c
 
 [*The Cambridge History of China, Volume 10: Late Ch'ing 1800–1911, Part 1*](https://www.cambridge.org/core/books/cambridge-history-of-china/2E6894685B645ECA2E2EEE368D86A7E0). Edited by John Fairbank
 
-[*The Cambridge History of China, Volume 11: Late Ch'ing, 1800–1911, Part 2*](https://www.cambridge.org/core/books/cambridge-history-of-china/9809623CFE8AF8644615FFD78B97EA7E)
-. Edited by John K. Fairbank, Kwang-Ching Liu
+[*The Cambridge History of China, Volume 11: Late Ch'ing, 1800–1911, Part 2*](https://www.cambridge.org/core/books/cambridge-history-of-china/9809623CFE8AF8644615FFD78B97EA7E). Edited by John K. Fairbank, Kwang-Ching Liu
 
 [*The Other Face of Battle: America's Forgotten Wars and the Experience of Combat*](https://academic.oup.com/book/39236) by Wayne Lee, Anthony Carlson, David Preston, and David Silby
 
 [*Lakota America: A New History of Indigenous Power*](https://yalebooks.yale.edu/book/9780300255256/lakota-america/) by Pekka Hamalainen
 
-## Books Read - 2023
+#### 2023
 
 [*The Cambridge History of China, Volume 1: The Ch'in and Han Empires, 221 BC–AD 220*](https://www.cambridge.org/core/books/cambridge-history-of-china/00EC13D6E578FBC73F04750D644FF3EA). Edited by Denis Twitchett and Michael Loewe.
 
@@ -62,11 +66,11 @@ In addition to my professional interests, I am also an avid history buff. I am c
 [*The Cambridge History of China, Volume 6: Alien Regimes and Border States, 907–1368*](https://www.cambridge.org/us/universitypress/subjects/history/regional-history-1500/cambridge-history-china-volume-6?format=HB)
 . Edited by Herbert Franke and Denis C. Twitchett
 
-[*China between Empires: The Northern and Southern Dynasties*](https://www.hup.harvard.edu/books/9780674060357) by Mark Edward Lewis [Link](https://www.hup.harvard.edu/books/9780674060357)
+[*China between Empires: The Northern and Southern Dynasties*](https://www.hup.harvard.edu/books/9780674060357) by Mark Edward Lewis
 
 [*The Age of Confucian Rule: The Song Transformation of China*](https://www.hup.harvard.edu/books/9780674062023) by Dieter Kuhn
 
-## Books Read - 2022
+#### 2022
 
 [*What Hath God Wrought: The Transformation of America, 1815-1848*](https://global.oup.com/academic/product/what-hath-god-wrought-9780195078947?cc=us&lang=en&) by Daniel Walker Howe
 

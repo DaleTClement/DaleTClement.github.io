@@ -1,17 +1,18 @@
 
-title: Dale Clement
+title: Ecology and Evolution of Infectious Disease
 
 author:
   name: Dale Clement
   email: clemend@wfu.edu
 
 description: >
-  This is the personal website of Dale Clement.
+  Quantitative epidemiologist and data scientist. Research on infectious disease dynamics,
+  human behavior, and evolutionary biology.
 
 repository: DaleTClement/DaleTClement.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "DaleTClement.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  DaleTClement
+url: "https://DaleTClement.github.io" # the base hostname & protocol for your site
+github_username: DaleTClement
 
 theme: minima
 
@@ -23,34 +24,31 @@ sass:
   quiet_deps: true
   silence_deprecations: [import]
 
+exclude:
+  - _agent_context/
+  - Dale_Clement-JHU-Modeler_Epidemiology-CV.txt
+  - "~$*"
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+
 minima:
-  # Minima skin selection. Available skins are:
-  #   Available skins:
-  #     * classic            Default, light color scheme.
-  #     * dark               Dark variant of the classic skin.
-  #     * auto               Adaptive skin based on the default classic and dark skins.
-  #     * solarized-light    Light variant of solarized color scheme.
-  #     * solarized-dark     Dark variant of solarized color scheme.
-  #     * solarized          Adaptive skin for solarized color scheme skins.
   skin: classic
 
-  # Specific pages for site navigation.
-  #   If you wish to link only specific pages in the site-navigation, use this and list
-  #   the `path` property (as represented via Liquid) of the pages in the order they
-  #   should be rendered.
+  # Navigation pages — list page paths in the order they should appear in the header.
+  # To add a page to the nav bar, add its path here.
   nav_pages:
     - index.md
+    - about.markdown
     - Research.md
     - Publications.md
+    - blog.md
+    - cv.md
     - BookList.md
+    - contact.md
 
   # Set to `true` to show excerpts on the homepage.
   show_excerpts: false
-
-  # Minima date format.
-  #   The default value is "%b %d, %Y" (e.g. Nov 14, 2023).
-  #   Refer to https://shopify.github.io/liquid/filters/date/ for valid values.
-  # date_format: "%b-%d-%Y"
 
   # Social Media Links
   #   Renders icons via Font Awesome Free webfonts CDN, based on ordered list of entries.
@@ -62,6 +60,9 @@ minima:
     - title: ORCID
       icon: orcid
       url: "https://orcid.org/0000-0001-7327-3323"
+    - title: Google Scholar
+      icon: google-scholar
+      url: "https://scholar.google.com/citations?user=I300k4AAAAAJ&hl=en"
     - title: LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/in/dale-clement-a79aab361/"
