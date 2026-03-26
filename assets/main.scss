@@ -1,0 +1,18 @@
+---
+---
+
+@import "minima";
+
+// Display social media icons horizontally in the footer
+.social-media-list {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5em;
+  padding: 0;
+  li {
+    display: inline-block;
+    margin: 0;
+    padding-top: 0; // override Minima's li + li { padding-top: 5px }
+  }
+}
