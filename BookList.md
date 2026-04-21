@@ -1,20 +1,28 @@
 ---
 layout: page
-title: History Books
+title: Interests
+heading: History Books
 permalink: /BookList/
 ---
 
-In addition to my professional interests, I am also an avid history buff. I am curious about all places and times, but thus far I have mostly focused on social, economic, and institutional history in the U.S., China, and ancient Rome. These are the books that I've read over the years, all of which I found very insightful and highly recommend.
+In addition to my professional interests, I am also an avid history buff. I am curious about all places and times, but thus far I have mostly focused on military, social, economic, and institutional history in the U.S., China, and ancient Rome. These are the books that I've read over the years, all of which I found very insightful and highly recommend.
 
 ## Book List
 
 #### Currently Reading
 
+[*Strike: Labor, Unions, and Resistance in the Roman Empire*](https://doi.org/10.2307/jj.23925643) by Sarah E. Bond
+
+[*The Cambridge History of China, Volume 5: The Sung Dynasty and its Precursors, 907–1279, Part 1*](https://doi.org/10.1017/CHOL9780521812481). Edited by Denis Twitchett and Paul Jakov Smith
+
+[*City of Marvel and Transformation: Changan and Narratives of Experience in Tang Dynasty China*](https://doi.org/10.1515/9780824856878) by Linda Rui Feng
+
+
+#### 2026
+
 [*Soldiers and Silver: Mobilizing Resources in the Age of Roman Conquest*](https://doi.org/10.7560/321683) by Michael J. Taylor
 
 [*The Cambridge History of China, Volume 3: Sui and T'ang China, 589-906, Part 1*](https://doi.org/10.1017/CHOL9780521214469). Edited by Denis Twitchett and John K. Fairbank
-
-#### 2026
 
 [*Inside the Roman Legions: The Soldier’s Experience 264 – 107 BCE*](https://www.pen-and-sword.co.uk/Inside-the-Roman-Legions-Hardback/p/24617) by Kathryn Milne 
 
@@ -51,7 +59,7 @@ In addition to my professional interests, I am also an avid history buff. I am c
 
 [*The Cambridge History of China, Volume 10: Late Ch'ing 1800–1911, Part 1*](https://www.cambridge.org/core/books/cambridge-history-of-china/2E6894685B645ECA2E2EEE368D86A7E0). Edited by John Fairbank
 
-[*The Cambridge History of China, Volume 11: Late Ch'ing, 1800–1911, Part 2*](https://www.cambridge.org/core/books/cambridge-history-of-china/9809623CFE8AF8644615FFD78B97EA7E). Edited by John K. Fairbank, Kwang-Ching Liu
+[*The Cambridge History of China, Volume 11: Late Ch'ing, 1800–1911, Part 2*](https://www.cambridge.org/core/books/cambridge-history-of-china/9809623CFE8AF8644615FFD78B97EA7E). Edited by John K. Fairbank and Kwang-Ching Liu
 
 [*The Other Face of Battle: America's Forgotten Wars and the Experience of Combat*](https://academic.oup.com/book/39236) by Wayne Lee, Anthony Carlson, David Preston, and David Silby
 

@@ -20,7 +20,21 @@
           {%- for path in page_paths -%}
             {%- assign my_page = site.pages | where: "path", path | first -%}
             {%- if my_page.title -%}
-            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+              {%- if my_page.title == "Research" -%}
+                <div class="dropdown">
+                  <a class="page-link dropdown-toggle" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+                  <div class="dropdown-content">
+                    {%- assign research_pages = site.pages | where_exp: "p", "p.path contains 'research/'" | sort: "title" -%}
+                    {%- for rpage in research_pages -%}
+                      {%- if rpage.title -%}
+                      <a href="{{ rpage.url | relative_url }}">{{ rpage.title | escape }}</a>
+                      {%- endif -%}
+                    {%- endfor -%}
+                  </div>
+                </div>
+              {%- else -%}
+                <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+              {%- endif -%}
             {%- endif -%}
           {%- endfor -%}
         </div>

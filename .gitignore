@@ -1,6 +1,9 @@
 Gemfile.lock
 .DS_Store
+.jekyll-cache
+.jekyll-metadata
 /_agent_context
 ToDo.md
 /trash
 /_site
+/in_progress

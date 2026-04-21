@@ -1,13 +1,13 @@
 
-title: Ecology and Evolution of Infectious Disease
+title: Dale T. Clement | Ecology and Evolution of Infectious Disease
 
 author:
   name: Dale Clement
   email: clemend@wfu.edu
 
 description: >
-  Quantitative epidemiologist and data scientist. Research on infectious disease dynamics,
-  human behavior, and evolutionary biology.
+  Using mathematical modeling to understand the dynamics of infectious disease. 
+
 
 repository: DaleTClement/DaleTClement.github.io
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -39,7 +39,6 @@ minima:
   # To add a page to the nav bar, add its path here.
   nav_pages:
     - index.md
-    - about.markdown
     - Research.md
     - Publications.md
     - blog.md
