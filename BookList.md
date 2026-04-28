@@ -11,14 +11,16 @@ In addition to my professional interests, I am also an avid history buff. I am c
 
 #### Currently Reading
 
+[*Chinese Martial Arts: From Antiquity to the Twenty-First Century*](https://doi.org/10.1017/CBO9781139029865) by Peter A. Lorge
+
 [*Strike: Labor, Unions, and Resistance in the Roman Empire*](https://doi.org/10.2307/jj.23925643) by Sarah E. Bond
 
 [*The Cambridge History of China, Volume 5: The Sung Dynasty and its Precursors, 907–1279, Part 1*](https://doi.org/10.1017/CHOL9780521812481). Edited by Denis Twitchett and Paul Jakov Smith
 
-[*City of Marvel and Transformation: Changan and Narratives of Experience in Tang Dynasty China*](https://doi.org/10.1515/9780824856878) by Linda Rui Feng
-
 
 #### 2026
+
+[*City of Marvel and Transformation: Changan and Narratives of Experience in Tang Dynasty China*](https://doi.org/10.1515/9780824856878) by Linda Rui Feng
 
 [*Soldiers and Silver: Mobilizing Resources in the Age of Roman Conquest*](https://doi.org/10.7560/321683) by Michael J. Taylor
 
