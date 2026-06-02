@@ -12,4 +12,4 @@ permalink: /research/eeid-handout/
   </iframe>
 </div>
 
-*PDF preview pane. If the PDF doesn't display, you can [download it here]({{ site.baseurl }}/assets/eeid.handout.pdf).*
+*PDF preview pane. If the PDF doesn't display, you can [download it here]({{ site.baseurl }}/assets/eeid-handout.pdf).*
