@@ -11,14 +11,38 @@ In addition to my professional interests, I am also an avid history buff. I am c
 
 #### Currently Reading
 
-[*Chinese Martial Arts: From Antiquity to the Twenty-First Century*](https://doi.org/10.1017/CBO9781139029865) by Peter A. Lorge
+[*Fir and Empire: The Transformation of Forests in Early Modern China*](https://www.jstor.org/stable/j.ctv143mdn1.15) by Ian M. Miller
 
-[*Strike: Labor, Unions, and Resistance in the Roman Empire*](https://doi.org/10.2307/jj.23925643) by Sarah E. Bond
+[*The Unwomanly Face of War: An Oral History of Women in World War II*](https://www.penguinrandomhouse.com/books/540744/the-unwomanly-face-of-war-by-svetlana-alexievich/) by Svetlana Alexievich
 
 [*The Cambridge History of China, Volume 5: The Sung Dynasty and its Precursors, 907–1279, Part 1*](https://doi.org/10.1017/CHOL9780521812481). Edited by Denis Twitchett and Paul Jakov Smith
 
 
 #### 2026
+
+[*Xiongnu: The World's First Nomadic Empire*](https://doi.org/10.1093/oso/9780190083694.002.0004) by Bryan K. Miller
+
+[*Fifth Sun: A New History of the Aztecs*](https://global.oup.com/academic/product/fifth-sun-9780197577660) by Camilla Townsend
+
+[*The Social Life of Opium in China*](https://doi.org/10.1017/CBO9780511819575) by Zheng Yangwen
+
+[*1942: The Crux of War*](https://doi.org/10.1093/oso/9780197848371.002.0003) by Johnathan Parshall
+
+[*The River, the Plain, and the State: An Environmental Drama in Northern Song China 1048-1128*](https://doi.org/10.1017/CBO9781316659298) by Ling Zhang
+
+[*The Fox Spirit, the Stone Maiden, and Other Transgender Histories from Late Imperial China*](https://www.jstor.org/stable/10.7312/somm21412) by Matthew Sommer
+
+[*Strike: Labor, Unions, and Resistance in the Roman Empire*](https://doi.org/10.2307/jj.23925643) by Sarah E. Bond
+
+[*Healing with Poisons: Potent Medicines in Medieval China*](https://doi.org/10.6069/9780295749013) by Yan Liu
+
+[*An Urban History of China*](https://doi.org/10.1017/9781108164733) by Tony Lincoln
+
+[*Ghosts and Religious Life in Early China*](https://doi.org/10.1017/9781009086523) by Mu-Chou Poo
+
+[*Reshaping Confucianism: A Progressive Inquiry*](https://doi.org/10.1093/oso/9780197657621.002.0003) by Chenyang Li
+
+[*Chinese Martial Arts: From Antiquity to the Twenty-First Century*](https://doi.org/10.1017/CBO9781139029865) by Peter A. Lorge
 
 [*City of Marvel and Transformation: Changan and Narratives of Experience in Tang Dynasty China*](https://doi.org/10.1515/9780824856878) by Linda Rui Feng
 
