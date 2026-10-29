@@ -18,7 +18,8 @@ If you have any questions about my research, or just want to chat about science,
 ---
 
 ### Recent News
-- **March 2026** &mdash; My poster presentation was accepted for the 2026 *Ecology and Evolution of Infectious Diseases* meeting (Blacksburg, VA): "Does integrating multiple sources of information correct detrimental host behavioral responses to perceived disease risk?"
-- **February 2026** &mdash; New preprint on *EcoEvorXiv*: "Modeling evolutionary rescue" ([Link](https://doi.org/10.32942/X25D4T))
+- **October 13, 2026** &mdash; My paper "Adaptive shifts in rodent caching behavior buffer plant recruitment amid rapid environmental change" with Rafal Zwolak (1st author), Sebastian Schreiber, and Andy Sih was accepted in Ecology. This is the third paper in a series that began with my first dissertation chapter way back in 2017. It was the first research project of my graduate career and at the time I never thought I'd get two, let alone three, fantastic papers out of it.
+- **October 9, 2026** &mdash; My paper "Host behavioral responses to perceived risk shape spatial disease dynamics" with Nick Kortessis was accepted in Population Biology: Modeling and Theory. I'm really happy that this work found its home in the new journal of the Society for Modeling and Theory in Population Biology. It has been exciting to watch the society coalese and grow over the past five years or so.
+- **July 2026** &mdash; I had a great time in Salt Lake City at ESA 2027! There were lots of really interesting talks. The 100 Years of Lotka Volterra symposium was my personal favorite. My own talk, in the Disease and Epidemiology session, was "Does integrating multiple sources of information correct detrimental host behavioral responses to perceived disease risk?" Expect a preprint of this work in the next couple of months.
 
 

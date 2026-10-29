@@ -27,7 +27,7 @@ Many epidemic models fail to incorporate behavioral responses to disease risk an
 
 ### Relevant Publications
 
-**D.T. Clement**, R.D. Holt, N.W. Ruktanonchai, O. Saucedo, N.A. Kortessis. **In Revision.** Host behavioral responses to perceived risk shape spatial disease dynamics. *Population Biology: Modeling and Theory*.
+**D.T. Clement**, R.D. Holt, N.W. Ruktanonchai, O. Saucedo, N.A. Kortessis. **In Press.** Host behavioral responses to perceived risk shape spatial disease dynamics. *Population Biology: Modeling and Theory*. \[[Preprint](<https://doi.org/10.64898/2026.05.25.726839>)\] \[[Code](https://doi.org/10.5281/zenodo.21044381)\]
 
-N.W. Ruktanonchai, N.A. Kortessis, **D.T. Clement**, O. Saucedo, E. Cleary, S. Lai, S. Gao, R.D. Holt. **In Revision.** Accounting for a typology of travel behavior in modeling infectious disease transmission, detection, and community response. *Scientific Reports*
+N.W. Ruktanonchai, N.A. Kortessis, **D.T. Clement**, O. Saucedo, E. Cleary, S. Lai, S. Gao, R.D. Holt. 2026. Accounting for a typology of travel behavior in modeling infectious disease transmission, detection, and community response. *Scientific Reports* \[[Publication](https://doi.org/10.1038/s41598-026-60383-3)\]
 

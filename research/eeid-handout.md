@@ -2,6 +2,7 @@
 layout: page
 title: EEID Handout
 permalink: /research/eeid-handout/
+nav_hidden: true
 ---
 
 <div style="height: 800px; width: 100%; border: 1px solid #ccc;">

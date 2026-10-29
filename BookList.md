@@ -11,7 +11,7 @@ In addition to my professional interests, I am also an avid history buff. I am c
 
 #### Currently Reading
 
-[*Fir and Empire: The Transformation of Forests in Early Modern China*](https://www.jstor.org/stable/j.ctv143mdn1.15) by Ian M. Miller
+[*Knotting the Banner: Ritual and Relationship in Daoist Practice*](https://www.jstor.org/stable/j.ctv16t66jn.1) by David J. Mozina
 
 [*The Unwomanly Face of War: An Oral History of Women in World War II*](https://www.penguinrandomhouse.com/books/540744/the-unwomanly-face-of-war-by-svetlana-alexievich/) by Svetlana Alexievich
 
@@ -19,6 +19,8 @@ In addition to my professional interests, I am also an avid history buff. I am c
 
 
 #### 2026
+
+[*Fir and Empire: The Transformation of Forests in Early Modern China*](https://www.jstor.org/stable/j.ctv143mdn1.15) by Ian M. Miller
 
 [*Xiongnu: The World's First Nomadic Empire*](https://doi.org/10.1093/oso/9780190083694.002.0004) by Bryan K. Miller
 

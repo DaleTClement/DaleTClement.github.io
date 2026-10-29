@@ -26,6 +26,7 @@ sass:
 
 exclude:
   - _agent_context/
+  - shiny-app/
   - Dale_Clement-JHU-Modeler_Epidemiology-CV.txt
   - "~$*"
   - Gemfile
